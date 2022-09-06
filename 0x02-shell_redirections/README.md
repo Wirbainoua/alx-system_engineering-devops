@@ -15,3 +15,4 @@ Save current state of directory
 Write a script that writes into the file
 Write a script that duplicates the last line of the file
 Write a script that deletes all the regular files
+No more javascript
