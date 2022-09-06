@@ -33,3 +33,4 @@ Display all the lines in the file
 Display all the lines in the file
 Display all lines of the file
 Replace all characters
+Create a script that removes all letters
