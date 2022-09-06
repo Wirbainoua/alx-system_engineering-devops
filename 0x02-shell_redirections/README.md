@@ -17,3 +17,4 @@ Write a script that duplicates the last line of the file
 Write a script that deletes all the regular files
 No more javascript
 Write a script that deletes all the regular files
+Write a script that counts the number of directories and sub-directories in the current directory
