@@ -10,3 +10,4 @@ Create a script that creates a new local variable
 Create a script that creates a new global variable
 Every addition to true knowledge is an addition to human power
 Write a script that prints the result
+Write a script that displays the result of BREATH to the power LOVE
