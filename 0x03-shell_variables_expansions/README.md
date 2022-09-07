@@ -20,3 +20,5 @@ Write a script that encodes and decodes text
 Write a script that prints every other line from the input
 Write a script that prints every other line from the input
 Write a script that prints every other line
+Write a script that prints every other line
+The eggs of the brood need to be an odd number
