@@ -36,3 +36,4 @@ Replace all characters
 Create a script that removes all letters
 Write a script that reverse its input
 Write a command that finds all empty files and directories in the current directory and all sub-directories
+Write a command that finds all empty files and directories in the current directory
