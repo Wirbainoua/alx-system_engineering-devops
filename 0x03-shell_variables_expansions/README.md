@@ -17,3 +17,6 @@ Write a script that prints a number with two decimal places, followed by a new l
 Create a script that counts the number of directories
 Write a script that converts a number from base
 Write a script that encodes and decodes text
+Write a script that prints every other line from the input
+Write a script that prints every other line from the input
+Write a script that prints every other line
